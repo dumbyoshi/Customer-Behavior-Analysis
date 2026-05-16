@@ -2,7 +2,6 @@
 Complete Data Analysis project on data of customer shopping activities.
 ## 📊 Power BI Dashboard
 
-
-This dashboard shows customer purchase behavior analysis.
-
-![Dashboard](D:\Customer Behavior Dashboard_page-0001.png)
+<p align="center">
+  <img src="images/customer_behavior_dashboard_1.png" width="800"/>
+</p>
